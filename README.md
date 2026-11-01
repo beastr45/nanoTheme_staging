@@ -1,6 +1,6 @@
 > ### 🔬 Minnesota Nanofabrication Club
 > New here? Start at the club website — what we're building, current projects, and how to join:
-> **https://minnesota-nanofabrication-club.github.io/club_website/**
+> **https://minnesota-nanofabrication-club.github.io/nanofab_web/**
 
 ---
 
